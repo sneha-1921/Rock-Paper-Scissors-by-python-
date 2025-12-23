@@ -30,5 +30,3 @@ This project is ideal for beginners to understand basic Python concepts like con
 - `random` module
 
 ---
-
-## 📂 Project Structure
